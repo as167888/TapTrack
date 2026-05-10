@@ -1,0 +1,155 @@
+热门榜	https://www.taptap.cn/top/download?page=1
+热门榜	https://www.taptap.cn/top/download?page=2
+热门榜	https://www.taptap.cn/top/download?page=3
+热门榜	https://www.taptap.cn/top/download?page=4
+热门榜	https://www.taptap.cn/top/download?page=5
+热门榜	https://www.taptap.cn/top/download?page=6
+热门榜	https://www.taptap.cn/top/download?page=7
+热门榜	https://www.taptap.cn/top/download?page=8
+热门榜	https://www.taptap.cn/top/download?page=9
+热门榜	https://www.taptap.cn/top/download?page=10
+热门榜	https://www.taptap.cn/top/download?page=11
+热门榜	https://www.taptap.cn/top/download?page=12
+热门榜	https://www.taptap.cn/top/download?page=13
+热门榜	https://www.taptap.cn/top/download?page=14
+热门榜	https://www.taptap.cn/top/download?page=15
+	
+热玩榜	https://www.taptap.cn/top/played?page=1
+热玩榜	https://www.taptap.cn/top/played?page=2
+热玩榜	https://www.taptap.cn/top/played?page=3
+热玩榜	https://www.taptap.cn/top/played?page=4
+热玩榜	https://www.taptap.cn/top/played?page=5
+热玩榜	https://www.taptap.cn/top/played?page=6
+热玩榜	https://www.taptap.cn/top/played?page=7
+热玩榜	https://www.taptap.cn/top/played?page=8
+热玩榜	https://www.taptap.cn/top/played?page=9
+热玩榜	https://www.taptap.cn/top/played?page=10
+热玩榜	https://www.taptap.cn/top/played?page=11
+热玩榜	https://www.taptap.cn/top/played?page=12
+热玩榜	https://www.taptap.cn/top/played?page=13
+热玩榜	https://www.taptap.cn/top/played?page=14
+热玩榜	https://www.taptap.cn/top/played?page=15
+	
+新品榜	https://www.taptap.cn/top/download/new?page=1
+新品榜	https://www.taptap.cn/top/download/new?page=2
+新品榜	https://www.taptap.cn/top/download/new?page=3
+新品榜	https://www.taptap.cn/top/download/new?page=4
+新品榜	https://www.taptap.cn/top/download/new?page=5
+新品榜	https://www.taptap.cn/top/download/new?page=6
+新品榜	https://www.taptap.cn/top/download/new?page=7
+新品榜	https://www.taptap.cn/top/download/new?page=8
+新品榜	https://www.taptap.cn/top/download/new?page=9
+新品榜	https://www.taptap.cn/top/download/new?page=10
+	
+独家榜	https://www.taptap.cn/top/exclusive?page=1
+独家榜	https://www.taptap.cn/top/exclusive?page=2
+独家榜	https://www.taptap.cn/top/exclusive?page=3
+独家榜	https://www.taptap.cn/top/exclusive?page=4
+独家榜	https://www.taptap.cn/top/exclusive?page=5
+独家榜	https://www.taptap.cn/top/exclusive?page=6
+独家榜	https://www.taptap.cn/top/exclusive?page=7
+独家榜	https://www.taptap.cn/top/exclusive?page=8
+独家榜	https://www.taptap.cn/top/exclusive?page=9
+独家榜	https://www.taptap.cn/top/exclusive?page=10
+	
+动作榜	https://www.taptap.cn/top/download/action?page=1
+动作榜	https://www.taptap.cn/top/download/action?page=2
+动作榜	https://www.taptap.cn/top/download/action?page=3
+动作榜	https://www.taptap.cn/top/download/action?page=4
+动作榜	https://www.taptap.cn/top/download/action?page=5
+	
+策略榜	https://www.taptap.cn/top/download/strategy?page=1
+策略榜	https://www.taptap.cn/top/download/strategy?page=2
+策略榜	https://www.taptap.cn/top/download/strategy?page=3
+策略榜	https://www.taptap.cn/top/download/strategy?page=4
+策略榜	https://www.taptap.cn/top/download/strategy?page=5
+	
+放置榜	https://www.taptap.cn/top/download/idle?page=1
+放置榜	https://www.taptap.cn/top/download/idle?page=2
+放置榜	https://www.taptap.cn/top/download/idle?page=3
+放置榜	https://www.taptap.cn/top/download/idle?page=4
+放置榜	https://www.taptap.cn/top/download/idle?page=5
+	
+单机榜	https://www.taptap.cn/top/download/single?page=1
+单机榜	https://www.taptap.cn/top/download/single?page=2
+单机榜	https://www.taptap.cn/top/download/single?page=3
+单机榜	https://www.taptap.cn/top/download/single?page=4
+单机榜	https://www.taptap.cn/top/download/single?page=5
+	
+休闲榜	https://www.taptap.cn/top/download/casual?page=1
+休闲榜	https://www.taptap.cn/top/download/casual?page=2
+休闲榜	https://www.taptap.cn/top/download/casual?page=3
+休闲榜	https://www.taptap.cn/top/download/casual?page=4
+休闲榜	https://www.taptap.cn/top/download/casual?page=5
+	
+沙盒生存榜	https://www.taptap.cn/top/download/sandbox_survival?page=1
+沙盒生存榜	https://www.taptap.cn/top/download/sandbox_survival?page=2
+沙盒生存榜	https://www.taptap.cn/top/download/sandbox_survival?page=3
+沙盒生存榜	https://www.taptap.cn/top/download/sandbox_survival?page=4
+沙盒生存榜	https://www.taptap.cn/top/download/sandbox_survival?page=5
+	
+模拟经营榜	https://www.taptap.cn/top/download/management?page=1
+模拟经营榜	https://www.taptap.cn/top/download/management?page=2
+模拟经营榜	https://www.taptap.cn/top/download/management?page=3
+模拟经营榜	https://www.taptap.cn/top/download/management?page=4
+模拟经营榜	https://www.taptap.cn/top/download/management?page=5
+	
+解谜榜	https://www.taptap.cn/top/download/unriddle?page=1
+解谜榜	https://www.taptap.cn/top/download/unriddle?page=2
+解谜榜	https://www.taptap.cn/top/download/unriddle?page=3
+解谜榜	https://www.taptap.cn/top/download/unriddle?page=4
+解谜榜	https://www.taptap.cn/top/download/unriddle?page=5
+	
+射击榜	https://www.taptap.cn/top/download/shooter?page=1
+射击榜	https://www.taptap.cn/top/download/shooter?page=2
+射击榜	https://www.taptap.cn/top/download/shooter?page=3
+射击榜	https://www.taptap.cn/top/download/shooter?page=4
+射击榜	https://www.taptap.cn/top/download/shooter?page=5
+	
+多人对战榜	https://www.taptap.cn/top/download/multiplayer?page=1
+多人对战榜	https://www.taptap.cn/top/download/multiplayer?page=2
+多人对战榜	https://www.taptap.cn/top/download/multiplayer?page=3
+多人对战榜	https://www.taptap.cn/top/download/multiplayer?page=4
+多人对战榜	https://www.taptap.cn/top/download/multiplayer?page=5
+	
+二次元榜	https://www.taptap.cn/top/download/acgn?page=1
+二次元榜	https://www.taptap.cn/top/download/acgn?page=2
+二次元榜	https://www.taptap.cn/top/download/acgn?page=3
+二次元榜	https://www.taptap.cn/top/download/acgn?page=4
+二次元榜	https://www.taptap.cn/top/download/acgn?page=5
+	
+音乐节奏榜	https://www.taptap.cn/top/download/music?page=1
+音乐节奏榜	https://www.taptap.cn/top/download/music?page=2
+音乐节奏榜	https://www.taptap.cn/top/download/music?page=3
+音乐节奏榜	https://www.taptap.cn/top/download/music?page=4
+音乐节奏榜	https://www.taptap.cn/top/download/music?page=5
+	
+剧情榜	https://www.taptap.cn/top/download/scenario?page=1
+剧情榜	https://www.taptap.cn/top/download/scenario?page=2
+剧情榜	https://www.taptap.cn/top/download/scenario?page=3
+剧情榜	https://www.taptap.cn/top/download/scenario?page=4
+剧情榜	https://www.taptap.cn/top/download/scenario?page=5
+	
+武侠榜	https://www.taptap.cn/top/download/swordsman?page=1
+武侠榜	https://www.taptap.cn/top/download/swordsman?page=2
+武侠榜	https://www.taptap.cn/top/download/swordsman?page=3
+武侠榜	https://www.taptap.cn/top/download/swordsman?page=4
+武侠榜	https://www.taptap.cn/top/download/swordsman?page=5
+	
+女性向榜	https://www.taptap.cn/top/download/otome?page=1
+女性向榜	https://www.taptap.cn/top/download/otome?page=2
+女性向榜	https://www.taptap.cn/top/download/otome?page=3
+女性向榜	https://www.taptap.cn/top/download/otome?page=4
+女性向榜	https://www.taptap.cn/top/download/otome?page=5
+	
+独立游戏榜	https://www.taptap.cn/top/download/independent?page=1
+独立游戏榜	https://www.taptap.cn/top/download/independent?page=2
+独立游戏榜	https://www.taptap.cn/top/download/independent?page=3
+独立游戏榜	https://www.taptap.cn/top/download/independent?page=4
+独立游戏榜	https://www.taptap.cn/top/download/independent?page=5
+	
+肉鸽榜	https://www.taptap.cn/top/download/roguelike?page=1
+肉鸽榜	https://www.taptap.cn/top/download/roguelike?page=2
+肉鸽榜	https://www.taptap.cn/top/download/roguelike?page=3
+肉鸽榜	https://www.taptap.cn/top/download/roguelike?page=4
+肉鸽榜	https://www.taptap.cn/top/download/roguelike?page=5

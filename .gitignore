@@ -1,0 +1,34 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+
+# Virtual environments
+venv/
+.venv/
+env/
+.env/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Project - generated output
+export/
+data/
+*.xlsx
+*.xls
+~$*.xlsx
+
+# Database (contains crawled data, can be re-generated)
+# Uncomment the line below to exclude the database from git
+# games.db
+
+# Environment
+.env

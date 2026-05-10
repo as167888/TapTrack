@@ -30,6 +30,7 @@ def show_menu():
 
 def main():
     db.init_db()
+    db.init_detail_tables()
 
     while True:
         show_banner()

@@ -14,12 +14,20 @@ def show_banner():
     print("=" * 44)
     print("    TapTap 游戏数据爬取系统")
     print("=" * 44)
+    print()
+    print("  工作原理：")
+    print("    爬取榜单   → 从各榜单页面获取游戏链接")
+    print("    对比去重   → 与数据库中的链接比对，新链接加入数据库")
+    print("    爬取详情   → 从数据库读取完整链接进行详情爬取")
+    print("    查看数据   → 浏览数据库中已保存的游戏链接")
 
 
 def show_menu():
     total = db.get_stats()
-    print(f"  数据库记录: {total} 条")
+    print("=" * 44)
+    print(f"  数据库中游戏链接数量: {total}")
     print()
+    print("  请输入序号，选择以下功能")
     print("  1. 爬取榜单    - 从榜单获取游戏链接并入数据库")
     print("  2. 导入新链接  - 从文件导入新增游戏链接")
     print("  3. 爬取详情    - 从数据库读取链接并爬取详情")
@@ -30,7 +38,6 @@ def show_menu():
 
 def main():
     db.init_db()
-    db.init_detail_tables()
 
     while True:
         show_banner()

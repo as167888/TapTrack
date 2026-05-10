@@ -11,18 +11,12 @@ import db
 def run():
     print("步骤 1：从数据库读取游戏链接...")
     db.init_db()
-    db.init_detail_tables()
     games = db.get_all_games_full()
     if not games:
         print("数据库中无游戏链接，请先运行 crawl_bangdan.py 或 import_new_links.py。")
         return
-    # games_full is list of (id, name, app_id, detail_url, category, created_at)
-    game_map = {row[0]: (row[1], row[3]) for row in games}  # id -> (name, detail_url)
     urls = [(row[0], row[3]) for row in games]  # (id, detail_url)
-    print(f"成功从数据库读取，共找到 {len(urls)} 个游戏链接待爬取。")
-
-    session_id = db.create_crawl_session()
-    print(f"已创建爬取会话 (session_id={session_id})\n")
+    print(f"成功从数据库读取，共找到 {len(urls)} 个游戏链接待爬取。\n")
 
     # 设置请求头，伪装成正常浏览器
     headers = {
@@ -121,19 +115,6 @@ def run():
             
         results.append(game_data)
 
-        # 写入数据库
-        db.insert_crawl_record(
-            session_id=session_id,
-            game_id=game_id,
-            detail_url=target_url,
-            game_name=game_data["游戏名称"],
-            publish_date=game_data["发布日期"],
-            downloads=game_data["下载量"],
-            followers=game_data["关注量"],
-            rating=game_data["评分"],
-            rating_count=game_data["评价数量"],
-        )
-
         # 随机休眠 1~3 秒，防封
         time.sleep(random.uniform(1, 3))
 
@@ -146,7 +127,6 @@ def run():
         output_df = pd.DataFrame(results)
         output_df.to_excel(output_filename, index=False)
         print(f"爬虫执行完毕！成功将结果保存至当前目录下的: {output_filename}")
-        print(f"数据已同步写入数据库 (session_id={session_id})")
     except Exception as e:
         print(f"保存文件失败: {e}")
 

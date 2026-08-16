@@ -23,6 +23,9 @@ Thumbs.db
 export/
 data/
 *.xlsx
+# 例外：手动维护的游戏名称及链接汇总表
+!游戏名称及链接/
+!游戏名称及链接/*.xlsx
 *.xls
 ~$*.xlsx
 
